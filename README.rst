@@ -4,15 +4,18 @@ stern-gerlach-qutip
 A very gentle introduction to qubits and QuTiP via exploring the Stern-Gerlach
 experiment.
 
-Mybinder viewer
----------------
+Nbviewer & Mybinder
+-------------------
 
-View the notebook in Mybinder:
+View the notebook in Nbviewer or Mybinder:
+
+.. image:: https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg
+   :target: https://nbviewer.jupyter.org/github/hodgestar/stern-gerlach-qutip/blob/master/qutip-measurement.ipynb
 
 .. image:: https://mybinder.org/badge_logo.svg
    :target: https://mybinder.org/v2/gh/hodgestar/stern-gerlach-qutip/master
 
-Warning: This takes a *long* time to start.
+Warning: The Mybinder environment takes a *long* time to start.
 
 
 Quickstart
