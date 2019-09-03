@@ -1,0 +1,3 @@
+# Required if one wants to use RISE to turn the
+# notebook into reveal.js slides.
+RISE
