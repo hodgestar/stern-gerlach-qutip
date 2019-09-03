@@ -9,11 +9,12 @@ Nbviewer & Mybinder
 
 View the notebook in Nbviewer or Mybinder:
 
-.. image:: https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png
-   :target: https://nbviewer.jupyter.org/github/hodgestar/stern-gerlach-qutip/blob/master/qutip-measurement.ipynb
+* .. image:: https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png
+     :width: 200
+     :target: https://nbviewer.jupyter.org/github/hodgestar/stern-gerlach-qutip/blob/master/qutip-measurement.ipynb
 
-.. image:: https://mybinder.org/badge_logo.svg
-   :target: https://mybinder.org/v2/gh/hodgestar/stern-gerlach-qutip/master
+* .. image:: https://mybinder.org/badge_logo.svg
+     :target: https://mybinder.org/v2/gh/hodgestar/stern-gerlach-qutip/master
 
 Warning: The Mybinder environment takes a *long* time to start.
 
