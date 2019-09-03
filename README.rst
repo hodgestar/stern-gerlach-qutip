@@ -9,9 +9,7 @@ Nbviewer & Mybinder
 
 View the notebook in Nbviewer or Mybinder:
 
-* .. image:: https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png
-     :width: 200
-     :target: https://nbviewer.jupyter.org/github/hodgestar/stern-gerlach-qutip/blob/master/qutip-measurement.ipynb
+* `Nbviewer <https://nbviewer.jupyter.org/github/hodgestar/stern-gerlach-qutip/blob/master/qutip-measurement.ipynb>`_
 
 * .. image:: https://mybinder.org/badge_logo.svg
      :target: https://mybinder.org/v2/gh/hodgestar/stern-gerlach-qutip/master
