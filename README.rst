@@ -1,4 +1,5 @@
-# stern-gerlach-qutip
+stern-gerlach-qutip
+===================
 
 A very gentle introduction to qubits and QuTiP via exploring the Stern-Gerlach
 experiment.
@@ -7,7 +8,8 @@ experiment.
    :target: https://mybinder.org/v2/gh/hodgestar/stern-gerlach-qutip/master
 
 
-## Quickstart
+Quickstart
+----------
 
 Install requirements::
 
@@ -21,7 +23,8 @@ Launch jupyter notebook::
 Work through the notebook.
 
 
-## Viewing the notebook into slides
+Viewing the notebook as slides
+------------------------------
 
 Install slide requirements::
 
@@ -30,7 +33,8 @@ Install slide requirements::
 Open the notebook and press `Alt + r` to enter slide mode.
 
 
-## Image citations
+Image citations
+---------------
 
 1. `images/complex-movie-loop-f7.gif` -- private correspondence with
    Dr Claire Blackman, Department of Mathematics & Applied Mathematics,
@@ -48,7 +52,8 @@ Open the notebook and press `Alt + r` to enter slide mode.
    Stern-Gerlach experiment (Gerlach and Stern, 1922a) via https://plato.stanford.edu/entries/physics-experiment/app5.html.
 
 
-## Further reading
+Further reading
+---------------
 
 1. QuTiP documentation [ https://qutip.org/ ]
 
@@ -65,7 +70,8 @@ Open the notebook and press `Alt + r` to enter slide mode.
    [ http://mathworld.wolfram.com/SpherePointPicking.html ]
 
 
-## License
+License
+-------
 
 All original work licensed under the MIT license. See LICENSE file for
 details.
