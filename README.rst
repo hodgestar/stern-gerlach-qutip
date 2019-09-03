@@ -62,10 +62,10 @@ Image citations
 Further reading
 ---------------
 
-1. QuTiP documentation [ https://qutip.org/ ]
+1. QuTiP documentation [ http://qutip.org/ ]
 
 2. Quantum Computing for the Determined by Michael Nielsen
-   [ https://michaelnielsen.org/blog/quantum-computing-for-the-determined/ ]
+   [ http://michaelnielsen.org/blog/quantum-computing-for-the-determined/ ]
 
 3. Quantum Computing StackExchange
    [ https://quantumcomputing.stackexchange.com/ ]
