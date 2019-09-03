@@ -3,6 +3,9 @@
 A very gentle introduction to qubits and QuTiP via exploring the Stern-Gerlach
 experiment.
 
+.. image:: https://mybinder.org/badge_logo.svg
+   :target: https://mybinder.org/v2/gh/hodgestar/stern-gerlach-qutip/master
+
 
 ## Quickstart
 
